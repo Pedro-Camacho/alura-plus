@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "alura-Plus",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "alura-Plus"
+	}
+}
